@@ -3,13 +3,13 @@ to use this application you have to read the instruction
 
 INSTRUCTIONS:
 1. first download all the files and place in the same and extract the files with 7z
-          \nAndroid Online Shopping Application.zip.001
-          Android Online Shopping Application.zip.002
-          Android Online Shopping Application.zip.003
-          Android Online Shopping Application.zip.004
-          Android Online Shopping Application.zip.005
-          Android Online Shopping Application.zip.006
-          Android Online Shopping Application.zip.007
+          (Android Online Shopping Application.zip.001,
+          Android Online Shopping Application.zip.002,
+          Android Online Shopping Application.zip.003,
+          Android Online Shopping Application.zip.004,
+          Android Online Shopping Application.zip.005,
+          Android Online Shopping Application.zip.006,
+          Android Online Shopping Application.zip.007)
    then you will find two directories in the extracted folder
           ShopApp and ShopAppForShoppers
 2. the project is tested in android studio 3.2.1 android api leve 15 and above 
