@@ -14,9 +14,11 @@ INSTRUCTIONS:
           ShopApp and ShopAppForShoppers
 2. the project is tested in android studio 3.2.1 android api leve 15 and above 
 3. the project have to be configured to run in android emulator with 4' density and 720x1280 andorid emulator and android 5.0 and above
-if your run the app with your smart phone you dont have to worry about the screen size and density it works well in real device
+.if your run the app with your smart phone you dont have to worry about the screen size and density it works well in real device
 4. create database and tables available in the shopapp.sql file
-5. then edit DBConnect file with you mysql server ipaddress
-6. run the app
+5. insert payment amount in the payment table for every user you registered like this
+          (1,20000,'user_1')
+6. then edit DBConnect file with you mysql server ipaddress
+7. run the app
 
 if you have any request you can email me or pull request to this repository
