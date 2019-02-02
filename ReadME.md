@@ -17,7 +17,7 @@ INSTRUCTIONS:
 .if your run the app with your smart phone you dont have to worry about the screen size and density it works well in real device
 4. create database and tables available in the shopapp.sql file
 5. insert payment amount in the payment table for every user you registered like this
-          (1,20000,'user_1')
+    if you have a user with user whose user name is user_1 the payment table look like this (1,20000,'user_1')
 6. then edit DBConnect file with you mysql server ipaddress
 7. run the app
 
